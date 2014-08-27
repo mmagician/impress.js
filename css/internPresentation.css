@@ -152,10 +152,10 @@ a:hover, a:focus {
     text-align: center;
 }
 
-.bio {
+.bio, #learn {
 	text-align: left;
 }
 
-.bio li {
+li {
 	margin-left: 60px;
 }
